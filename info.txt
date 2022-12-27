@@ -1,3 +1,16 @@
 Que es NodeJS
 Es un entorno de desarrollo que trabaja en tiempo de ejecucion, orientado a eventos asincronicos que permite crear todo tipo de herramientas del lado del servidor y aplicaciones en javascript.
-Utiliza el motor V8 de google
+Utiliza el motor V8 de google, el motor v8 es un software que interpreta el codigo javascript
+el motor v8 esta escrito en c++, este software es libre y abierto, por ende puedes modificarlo.
+
+
+sincronia: un proceso ejecutandose a la vez
+asincronia: mas de un proceso ejecuntandose simultaneamente
+
+javascript es sincrono, lee el codigo linea por linea.
+
+eventos:es algo que ha sucedido en la aplicacion y debemos responder
+
+nodejs implimenta un bucle de eventos, que permite ejecutar codigo asincronos
+
+livub da soporte a nodejs para operaciones asincronas.
