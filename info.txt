@@ -24,3 +24,9 @@ Bucle de eventos o event loop, es el encargado de implementar las operaciones as
 
 
 callbacks;es una funcion que recibe como argumento otra funcion y se ejecuta
+
+promesas; es un objeto que se le adjuntan funciones callbacks
+metodos de las promesas:
+then()-> nos devuelve la data
+catch()-> manejo de errores
+finally()-> siempre 
