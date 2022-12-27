@@ -1,0 +1,3 @@
+Que es NodeJS
+Es un entorno de desarrollo que trabaja en tiempo de ejecucion, orientado a eventos asincronicos que permite crear todo tipo de herramientas del lado del servidor y aplicaciones en javascript.
+Utiliza el motor V8 de google
