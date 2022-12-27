@@ -14,3 +14,13 @@ eventos:es algo que ha sucedido en la aplicacion y debemos responder
 nodejs implimenta un bucle de eventos, que permite ejecutar codigo asincronos
 
 livub da soporte a nodejs para operaciones asincronas.
+
+
+blocking es esperar que un proceso termine para continuar con la ejecucion del programa, esto se hace utilizando operaciones sincronas y ciclos infinitos
+
+Non-blcoking es que el programa siga ejecutandose sin la obligacion de esperar que un proceso termine su ejecucion, esto se hace utilizando operaciones asincronas
+
+Bucle de eventos o event loop, es el encargado de implementar las operaciones asincronas 
+
+
+callbacks;es una funcion que recibe como argumento otra funcion y se ejecuta
