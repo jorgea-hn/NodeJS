@@ -30,3 +30,8 @@ metodos de las promesas:
 then()-> nos devuelve la data
 catch()-> manejo de errores
 finally()-> siempre 
+
+
+async; devulve una promesa, la promesa se resuelve con el valor devuelto, si la funcion genera un error la promesa rechazara el valor generado
+
+await; pausa la ejecucion de la funcion asincrona y espera la resolucion de la promesa pasada, y luego reanuda la ejecucion de la funcion async y devuelve el valor resuelto despues del termino
